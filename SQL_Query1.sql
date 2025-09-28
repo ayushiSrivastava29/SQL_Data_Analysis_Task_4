@@ -1,0 +1,1 @@
+Select * from [Adidas_US Sales Datasets1]
